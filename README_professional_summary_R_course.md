@@ -26,6 +26,7 @@ Apply these skills to real datasets in progressively more complex programming as
 ⸻
 
 🧩 Course Modules Overview
+
 📦 Module 1: Background, Getting Started, and Nuts & Bolts (Professional Summary)
 
 Installed and configured R + RStudio, then explored the basic building blocks of the language.
@@ -40,6 +41,7 @@ Subsetting operations and handling missing values (NA)
 Reading tabular data and understanding object structure
 
 Practice was reinforced through swirl Lessons 1–7, plus a Week 1 quiz.
+
 📁 Folder: module1-background-getting-started-nuts-and-bolts/
 
 🧮 Module 2: Programming with R (Professional Summary)
@@ -56,6 +58,7 @@ Lexical scoping concepts and good coding standards
 Dates and times in R
 
 Hands-on work included swirl Part 2 lessons (Logic, Functions, Dates & Times) and Programming Assignment 1 – Air Pollution, which introduced a small toolkit of functions (pollutantmean(), complete(), corr()) to analyze air quality monitor data.
+
 📁 Folder: module2-programming-in-r/ → air_pollution/
 
 🔁 Module 3: Loop Functions and Debugging (Professional Summary)
@@ -74,6 +77,7 @@ Practical use of lexical scoping and closures
 Practice included swirl Part 3 lessons (lapply/sapply, vapply/tapply) and Programming Assignment 2 – Lexical Scoping, which implemented a cached matrix inverse via makeCacheMatrix() and cacheSolve().
 
 The graded implementation for this assignment lives in a dedicated forked repo:
+
 👉 ProgrammingAssignment2 (forged-by-sim)
 
 📁 Folder: module3-loop-functions-and-debugging/ → caching_matrix_inverse/ (local documentation and pointer to the repo)
@@ -92,6 +96,7 @@ Visualizing distributions with base R graphics (histograms and related plots)
 Using the R profiler to identify time-consuming parts of functions
 
 Practice included swirl Part 4 lessons (Looking at Data, Simulation, Base Graphics) and Programming Assignment 3 – Hospital Quality, which analyzed U.S. hospital outcome data and implemented functions (best(), rankhospital(), rankall()) to compare 30-day mortality rates across states.
+
 📁 Folder: module4-simulation-and-profiling/ → hospital_quality/
 
 ⸻
