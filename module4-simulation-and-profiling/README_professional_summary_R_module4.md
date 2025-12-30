@@ -50,6 +50,7 @@ Thinking about vectorization, data structures, and algorithm design when optimiz
 ⸻
 
 🧪 Practice & Assessments
+
 💻 Practical R Exercises in swirl – Part 4
 
 Each swirl lesson is stored in its own folder under module4-simulation-and-profiling/:
